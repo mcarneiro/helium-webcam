@@ -14,7 +14,7 @@ To use it just follow these simple steps:
 
 1. [Download and run Helium](https://github.com/JadenGeller/Helium/releases);
 
-2. Paste [http://mcarneiro.github.io/helium-webcam/]() on Helium;
+2. Paste [http://mcarneiro.github.io/helium-webcam/](http://mcarneiro.github.io/helium-webcam/) on Helium;
 
     ![](_help/ss1.png)
 
